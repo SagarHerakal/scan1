@@ -1,0 +1,4 @@
+include ':openCVLibrary310'
+include ':openCVLibrary349'
+include ':openCVLibrary310'
+include ':openCVLibrary310'
